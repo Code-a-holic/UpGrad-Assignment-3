@@ -1,0 +1,6 @@
+If yarn start command fails do the following: 
+1) Go to the folder where you need to run the yarn command 
+2) Type npm install 
+3) After the installation type yarn install 
+4) After the third step run yarn start again 
+5) Problem Solved
